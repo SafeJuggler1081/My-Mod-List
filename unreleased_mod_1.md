@@ -1,2 +1,3 @@
 # Unreleased Mod 1
-A mod about monsters.
+## Description
+A mod about monsters, created in 2022 but unreleased.
